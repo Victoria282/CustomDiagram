@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- PiChartView -->
+    <string name="pie_chart_view_sum">%1$s ₽</string>
+    <string name="expenses_page_label">Расходы и платежи</string>
+    <string name="pie_chart_label">Расходы \nза месяц</string>
+</resources>

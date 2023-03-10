@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorTextPrimary">#B9C6D1</color>
+    <color name="colorTextInverted">#FFFFFF</color>
+    <color name="colorTextTertiary">#9398A2</color>
+    <color name="colorTextPrimaryHeadline">#1F283E</color>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- PieChart colors -->
+    <color name="expenses_smart_intercom_pro">#1274FF</color>
+    <color name="expenses_internet">#FD6B54</color>
+    <color name="expenses_smart_intercom">#72F8F0</color>
+    <color name="expenses_cameras">#7772F8</color>
+    <color name="expenses_tv">#FFD65C</color>
+    <color name="expenses_empty">#B9C6D1</color>
+</resources>
