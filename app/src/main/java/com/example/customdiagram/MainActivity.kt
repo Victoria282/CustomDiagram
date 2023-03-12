@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
         setUpPieChart()
     }
 
-    private fun setUpPieChart() {
+    private fun setUpPieChart() = with(binding) {
         val data = PieBuilder(this).apply {
             add(65.0, R.color.expenses_cameras)
             add(105.0, R.color.expenses_internet)
@@ -27,6 +27,6 @@ class MainActivity : AppCompatActivity() {
             add(150.0, R.color.expenses_smart_intercom_pro)
         }.build()
 
-        binding.customPieChartView.createPieChart(data)
+        customPieChartView.createPieChart(data)
     }
 }
